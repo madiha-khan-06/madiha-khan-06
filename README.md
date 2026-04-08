@@ -89,7 +89,7 @@ Python • SQL • C/C++ • HTML • CSS
 ---
 
 ### 📊 Data Analytics & BI
-Pandas • NumPy • Matplotlib • Seaborn • Power BI • Tableau  
+Pandas • NumPy • Matplotlib • Seaborn • Power BI   
 
 ---
 
